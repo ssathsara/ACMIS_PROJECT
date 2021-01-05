@@ -1,0 +1,166 @@
+.course-table{
+	border: 2px solid #4169E1;
+	width: 100%;
+	
+}
+.course-table th{
+	border: 2px solid #4169E1;
+	background: #4169E1;
+	
+}
+
+
+.course-table tr{
+	font-size: 16px;
+	color: #fff;
+	padding-top: 10px;
+	background: #4c4e4e;
+	border-bottom: 1px solid black;
+}
+
+.course-table tr td{
+	padding: 5px;
+	margin-right: 8px;
+	text-align: center;
+	height: 50px;
+}
+.course-header{
+	background:#FBA907;
+	color: black;
+	padding: 10px;
+	text-align: center;
+}
+
+.course-btn{
+	margin-right: 200px;
+	float: right;
+	background:#4169E1;
+	height: 40px;
+	width: 25%;
+	border-radius: 4px;
+	font-size: 20px;
+	color: #fff;
+}
+
+.course-btn:hover{
+	background: red ;
+	color: #fff;
+}
+
+.course-table tr td a{
+	width: 50px;
+	height: 20px;
+	padding-left:20px;
+	padding-right: 20px;
+	
+}
+
+
+.student-table{
+	border: 2px solid #4169E1;
+	width: 100%;
+	margin-bottom: 50px;
+}
+
+.student-table tr{
+	font-size: 16px;
+	color: #fff;
+	padding-top: 10px;
+	background: #4c4e4e;
+	border-bottom: 1px solid black;
+}
+
+.student-table tr td{
+	padding: 5px;
+	margin-right: 8px;
+	
+}
+.student-header{
+	background:#4169E1;
+	color: #fff;
+	padding: 10px;
+	text-align: left;
+}
+
+
+textarea{
+	border-radius: 5px;
+	border: 1px solid #4169E1;
+}
+
+.email-content{
+	
+	width: 55%;
+	border-radius: 10px;
+	border: 1px solid #4169E1;
+	margin-left: 30%;
+}
+
+.email-details{
+	
+	margin-left: 20px;
+	width: 100%;
+}
+
+.email-details table{
+	border: 1px solid #4169E1;
+	width: 80%;
+}
+
+.email-details table th{
+	background: #4169E1;
+	color: #fff;
+	height: 40px;
+	text-align: center;
+}
+
+.email-details table td a{	
+	text-align: center;
+}
+.email-details table td{
+	height: 30px;
+	background:#4c4e4e; 
+	color: #fff;
+	text-align: center;
+}
+.course-content{
+	width: 100%;
+}
+
+.footer{
+	margin-bottom: 500px;
+}
+
+.send-btn{
+	background: #4169E1;
+	color: #fff;
+	font-weight: bolder;
+	text-transform: uppercase;
+	font-size: 12px;
+	padding: 10px;
+	margin: 0px;
+	border-radius: 10px;
+	box-shadow: 6px 6px 29px -4px rgba(0, 0, 0, 0.75);
+	cursor: pointer;
+	text-decoration: none;
+	transition: 0.4s;
+	width: 40%;
+	height: 40px;
+}
+
+.mail-btn{
+	width: 70px;
+	background: #4169E1;
+	border-radius: 5px;
+	height: 40px;
+}
+
+.inner-table{
+	width: 70%;
+}
+.inner-table tr{
+	height: 20px;
+	text-align: left;
+	font-size: 14px;
+	border: none;
+}

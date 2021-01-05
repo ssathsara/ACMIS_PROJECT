@@ -1,0 +1,25 @@
+
+.view_message{
+	border-radius: 5px;
+	border: 1px solid #4169E1;
+	width: 60%;
+	margin-top: 10px;
+}
+.msg-table{
+	width: 100%;
+}
+
+.msg-table th{
+	color: #fff;
+	background: #4169E1;
+	padding: 10px;
+}
+
+.msg-table tr td{
+	padding: 10px;
+	
+}
+
+.msg-table tr td textarea{
+	width: 100%;
+}

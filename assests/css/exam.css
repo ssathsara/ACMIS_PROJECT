@@ -1,0 +1,178 @@
+.result-table{
+
+	margin-right: 100px;
+	width: 80%;
+
+}
+
+.result-table th{
+	color: #fff;
+	background:#1b667e;
+	text-align: center;
+	height: 30px;
+	font-size: 20px;
+}
+
+.result-table tr{
+	border: 1px solid #1b667e;
+	text-align: center;
+	height: 40px;
+	font-size: 16px;
+}
+
+
+.exam-table{
+	border: 2px solid #4c4e4e;
+	margin-right: 100px;
+	width: 80%;
+
+}
+
+.exam-table th{
+	background: #4169E1;
+	
+}
+
+.exam-table tr{
+	font-size: 16px;
+	color: #fff;
+	padding-top: 10px;
+	background: #4c4e4e;
+	border-bottom: 1px solid black;
+}
+
+.exam-table tr td{
+	padding: 5px;
+	margin-right: 8px;
+	text-align: center;
+}
+.exam-header{
+	background:#4169E1;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+.exam-btn{
+	margin-right: 200px;
+	float: right;
+	background:#4169E1;
+	height: 40px;
+	width: 15%;
+	border-radius: 4px;
+	color: #fff;
+	margin-bottom: 40px;
+}
+
+.exam-btn:hover{
+	background:#1b667e;
+	color: black;
+}
+.exam-table tr td a img{
+	width: 20px;
+	height: 20px;
+	margin: 10px;
+}
+
+.add-exam-table{
+	border: 1px solid #1b667e;
+	width: 100%;
+}
+
+
+.add-exam-table th{
+	color: #fff;
+	background:#4169E1;
+	padding: 10px;  
+}
+.question-table{
+	border: 2px solid #4169E1;
+	text-align: left;
+
+}
+
+.question-table th{
+	color: black;
+	background:#4169E1;
+	padding: 10px;  
+}
+
+.question-table tr td{
+	padding-left: 10px; 
+	
+}
+
+.question-table tr td input{
+	width: 370px;
+	margin-right: 0px;
+	border-bottom: 1px solid #1b667e; 
+}
+
+.table-btn-img{
+	width: 20px;
+	height: 20px;
+}
+
+.question-table-btn{
+	width: 5%;
+}
+
+.question-all-table{
+	border: 1px solid #1b667e;
+	text-align: left;
+
+}
+
+.question-all-table th{
+	text-align: left;
+	background: #4169E1;
+	height: 50px;
+	color: #fff;
+	font-size: 20px;
+}
+
+.question-all-table tr td{
+	border: 1px solid #1b667e;
+
+}
+
+.subject-content{
+	width: 60%;
+	margin-top: 35px;
+	margin-bottom: 120px;
+}
+
+.subject-div{
+	border: 1px solid #1b667e;
+	border-radius: 5px;
+	width: 100%;
+	height: 60px;
+	margin-bottom: 30px;
+	text-align: left;	
+	
+}
+
+.subject-div h5{
+	font-family: 'Times New Roman';
+	color: black;
+	font-size: 20px;
+}
+.title{
+	float: left;
+	width: 80%;
+	padding-top: 15px;
+	padding-left: 30px;
+}
+.arrow{
+	float: right;
+	width: 20%;
+	background: #4169E1;
+	height: 100%;
+	border-radius: 5px;
+}
+
+.arrow img{
+	padding-top: 8px;
+	width: 30%;
+	height: 20%;
+}
